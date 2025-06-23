@@ -5,20 +5,7 @@
 
 <h4 align="center">Automation tests experiment using a hybrid strategy of Continuos Integration (CI) and Hardware-In-the-Loop (HIL) concepts.</h4>
 
-<p align="center">
-	<a href="">
-		<img src="https://img.shields.io/badge/status-in%20development-red?style=for-the-badge">
-	</a>
-	<a href="">
-		<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/andrempmattos/tests-embedded-systems?style=for-the-badge">
-	</a>
-	<a href="">
-		<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andrempmattos/tests-embedded-systems?style=for-the-badge">
-	</a>
-	<a href="">
-		<img alt="GitHub issues" src="https://img.shields.io/github/issues/andrempmattos/tests-embedded-systems?style=for-the-badge">
-	</a>
-</p>
+
 
 <p align="center">
   	<a href="#overview">Overview</a> •
